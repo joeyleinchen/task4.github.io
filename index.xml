@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Task4 - Eichberger, Schiffer, Siuka, Sprenger, Zieger on Task4 - Eichberger, Schiffer, Siuka, Sprenger, Zieger</title>
+		<link>https://example.com/</link>
+		<description>Recent content in Task4 - Eichberger, Schiffer, Siuka, Sprenger, Zieger </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(&#34;Task4 - Eichberger, Schiffer, Siuka, Sprenger, Zieger&#34;) (Eichberger - Schiffer - Siuka - Sprenger - Zieger)</managingEditor>
+    	
+		<atom:link href="/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
